@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Pinapple Post"
+title: "First Pineapple Post"
 date: 2016-01-02
 ---
 
