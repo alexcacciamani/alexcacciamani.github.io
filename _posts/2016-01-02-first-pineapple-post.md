@@ -5,4 +5,4 @@ date: 2016-01-02
 ---
 
 Very first pinapple post using Jekyll! Booyah!
-![My image test](/_img/yourcarmycar.jpg)
+![My image test](/assets/yourcarmycar.jpg)
