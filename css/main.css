@@ -1,3 +1,7 @@
+body {
+  /* Margin bottom by footer height, prevent overlapping on content */
+  margin-bottom: 60px;
+}
 
 h1c {
     font-size: 3em;
