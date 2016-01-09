@@ -5,6 +5,10 @@ h1c {
     text-align: left;
 }
 
+.default-spacer{
+    margin-left:10px;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
