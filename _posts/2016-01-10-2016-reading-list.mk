@@ -6,7 +6,8 @@ date: 2016-01-10
 
 <p>The following are a few books I'll be getting to this year in no specific order:</p>
 
-_"Elon Musk"_
+"Elon Musk"
+-----------
 by Ashlee Vance
 
 
