@@ -6,6 +6,6 @@ date: 2016-02-23
 
 The Mind Boggling Global Scale of eSports
 
-![eSport Games Chart](http://alexca.cc/assets/2016-02-23/esports-chart.png "eSport Games Chart")
+![eSport Games Chart](http://alexca.cc/assets/2016-02-23/eSports-Chart.png "eSport Games Chart")
 
 
