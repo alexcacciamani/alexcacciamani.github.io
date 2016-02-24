@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VR + Robotics + Remote Drone Tech = Ultimate Robot Fighting League"
+title: "VR + Robotics + Remote Drone Tech = The Ultimate Robot Fighting League"
 date: 2016-02-24
 ---
 
