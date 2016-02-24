@@ -4,7 +4,7 @@ title: "VR + Robotics + Remote Drone Tech = The Ultimate Robot Fighting League"
 date: 2016-02-24
 ---
 
-Today's latest Boston Dynamics Atlas Robot video proves humanoid robots are real and getting exponentially better every year. The latest Atlas iteration walks through uneven, snowy terrain, gets right up after being pushed down, all while patiently plotting the demise of the hockey stick wielding jerk. Point is if Boston Dynamics continues their current pace of innovation, the Atlas robot's mechanics will soon be very similar to a human's, just significantly harder, better, faster, stronger.
+Today's latest Boston Dynamics Atlas Robot video proves humanoid robots are real and getting exponentially better every year. The latest Atlas iteration walks through uneven snowy terrain, gets right up after being pushed down, and escapes through doors all while patiently plotting the demise of the hockey stick wielding jerk. Point is if Boston Dynamics continues their current pace of innovation, the Atlas robot's mechanics will soon be very similar to a human's, just significantly harder, better, faster, stronger.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVlhMGQgDkY" frameborder="0" allowfullscreen></iframe>
 
