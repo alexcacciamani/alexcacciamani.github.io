@@ -10,14 +10,14 @@ Today's latest Boston Dynamics Atlas Robot video proves humanoid robots are real
 
 Remote drone tech and VR/AR are also having very big years. The Drone Racing League had its inaugural season this year and whether it is successful or not, the racing tech is very interesting. The drone pilots wear VR/AR headsets linked to cameras in the drones and fly through a first person perspective, which is just ridiculously futuristic. Oculus and HTC will release their fantastic headsets along with input devices this year, marking the inception of an entire VR industry.  
 
-<img src="assets/2016-02-24/drone-racing-league.jpg" width="750" alt=" "class="img-responsive"/>
+![Drone Racing League](assets/2016-02-24/drone-racing-league.jpg "Drone Racing League")
 
 Naturally, one would conclude remote drone technology and robotics would pair to create some noble rescue robots teamed with a fleet of remote rescue drones to help in disaster areas and places too dangerous for humans to intervene. My simple brain jumps straight to Battle Bots. It isn't hard to imagine fifteen foot tall, next generation Atlas robots controlled by humans through first-person VR tech. We've seen this play out in Hollywood through films such as 2011's "Real Steel" featuring the legendary Hugh Jackman and the pixie Evangeline Lilly. The film seems to have been fairly prescient and the premise can no longer considered far fetched.
 
-<img src="assets/2016-02-24/real-steel.gif" width="750" alt=" "class="img-responsive"/>
+![Real Steel (2011)](assets/2016-02-24/real-steel.gif "Real Steel (2011)")
 
 I call on all young entrepreneurs and the world's greatest minds to make the logical jump and make The Ultimate Robot Fighting League a thing!
 
-<img src="assets/2016-02-24/ultimage-robot-fighting" width="750" alt=" "class="img-responsive"/>
+![Ultimate Robot Fighting League](assets/2016-02-24/ultimage-robot-fighting "Ultimate Robot Fighting League")
 
 
