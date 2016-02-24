@@ -16,7 +16,7 @@ Naturally, one would conclude remote drone technology and robotics would pair to
 
 <p><img src="http://alexca.cc/assets/2016-02-24/real-steel.gif" width="750" alt="Real Steel (2011)" class="img-responsive"/></p>
 
-I call on all young entrepreneurs and the world's greatest minds to make the logical jump and make The Ultimate Robot Fighting League a thing!
+I call on the world's entrepreneurs and the brightest young minds set aside visions of altruistic technological utopias and instead make The Ultimate Robot Fighting League happen!
 
 <p><img src="http://alexca.cc/assets/2016-02-24/ultimage-robot-fighting.jpg" width="750" alt="Ultimate Robot Fighting League" class="img-responsive"/></p>
 
