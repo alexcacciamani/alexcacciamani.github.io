@@ -4,6 +4,8 @@ title: "VR + Robotics + Remote Drone Tech = The Ultimate Robot Fighting League"
 date: 2016-02-24
 ---
 
+Test Test Test
+
 Today's latest Boston Dynamics Atlas Robot video proves humanoid robots are real and getting exponentially better every year. The latest Atlas iteration walks through uneven, snowy terrain, gets right up after being pushed down, all while patiently plotting the demise of the hockey stick wielding jerk. Point is if Boston Dynamics continues their current pace of innovation, the Atlas robot's mechanics will soon be very similar to a human's, just significantly harder, better, faster, stronger.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVlhMGQgDkY" frameborder="0" allowfullscreen></iframe>
@@ -21,5 +23,7 @@ Naturally, one would conclude remote drone technology and robotics would pair to
 I call on all young entrepreneurs and the world's greatest minds to make the logical jump and make The Ultimate Robot Fighting League a thing!
 
 ![Ultimate Robot Fighting League](http://alexca.cc/assets/2016-02-24/ultimage-robot-fighting "Ultimate Robot Fighting League")
+
+Test Test test
 
 
