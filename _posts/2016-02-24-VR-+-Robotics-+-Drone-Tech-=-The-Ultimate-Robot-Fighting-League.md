@@ -14,7 +14,7 @@ Remote drone tech and VR/AR are also having very big years. The Drone Racing Lea
 
 Naturally, one would conclude remote drone technology and robotics would pair to create some noble rescue robots teamed with a fleet of remote rescue drones to help in disaster areas and places too dangerous for humans to intervene. My simple brain jumps straight to Battle Bots. It isn't hard to imagine fifteen foot tall, next generation Atlas robots controlled by humans through first-person VR tech. We've seen this play out in Hollywood through films such as 2011's "Real Steel" featuring the legendary Hugh Jackman and the pixie Evangeline Lilly. The film seems to have been fairly prescient and the premise can no longer considered far fetched.
 
-<p><img src="http://alexca.cc/assets/2016-02-24/real-steel.gif" width="750" alt="Real Steel (2011)"class="img-responsive"/></p>
+<p><img src="http://alexca.cc/assets/2016-02-24/real-steel.gif" width="750" alt="Real Steel (2011)" class="img-responsive"/></p>
 
 I call on all young entrepreneurs and the world's greatest minds to make the logical jump and make The Ultimate Robot Fighting League a thing!
 
